@@ -1,0 +1,19 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+}
+
+.step-instructions strong,
+th,
+h2,
+h1 {
+    color:rgb(227, 178, 97);
+}
+
+h2 {
+    text-align: center;
+}
+
+.intro-recipe-pic {
+    height: 500px;
+    width: auto;
+}
